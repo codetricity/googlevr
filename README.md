@@ -6,5 +6,7 @@ Please read the documentation available at
 
 <br>
 <br>
-<iframe width="100%" height="700px" allowfullscreen
-frameborder="0" src="index.html?image=img/beach.jpg&is_stereo=false"></iframe>
+[Example](https://codetricity.github.io/googlevr/googlevr.html)
+
+<br>
+![](img/screenshot.png)
